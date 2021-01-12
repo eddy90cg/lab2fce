@@ -11,7 +11,8 @@
 * Econtrar la corriente enn cada malla aplicando leyes de nodo en mallas y leyes de kirchoff.
 
 2. MARCO TEÓRICO 
-                                      ##ANÁLISIS DE MALLAS
+                                      ### ANÁLISIS DE MALLAS
+* Resumen:
 
 El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en
 función de corrientes.
