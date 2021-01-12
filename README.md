@@ -187,7 +187,7 @@ Para poder econtrar los valores de la corriente para cada malla se aplicaron los
 
 
 
-![]( https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%202.jpg)
+![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%202.jpg)
 
 
 7. CONCLUSIONES
@@ -214,3 +214,7 @@ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
      
 9. Anexos
 
+calculo del error: 
+
+
+![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%203.jpg)
