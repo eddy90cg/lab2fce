@@ -12,8 +12,6 @@
 
 2. MARCO TEÓRICO 
 
-######## ANÁLISIS DE MALLAS
-
 * Resumen:
 
 El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en
