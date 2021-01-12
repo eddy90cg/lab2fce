@@ -218,3 +218,7 @@ calculo del error:
 
 
 ![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%203.jpg)
+
+diagrama de mallas a calcular: 
+
+![](https://github.com/eddy90cg/lab2fce/blob/master/img/mallas%20diagrama.jpeg)
