@@ -1,7 +1,7 @@
 ### ANÁLISIS DE MALLAS
 
 
-INTEGRANTES: LIZBETH CHANGOLUISA - EDISON CADENA
+### INTEGRANTES: LIZBETH CHANGOLUISA - EDISON CADENA
 
 
 1. OBJETIVOS
@@ -11,7 +11,7 @@ INTEGRANTES: LIZBETH CHANGOLUISA - EDISON CADENA
 * Econtrar la corriente enn cada malla aplicando leyes de nodo en mallas y leyes de kirchoff.
 
 2. MARCO TEÓRICO 
-                                      ANÁLISIS DE MALLAS
+                                      ##ANÁLISIS DE MALLAS
 
 El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en
 función de corrientes.
