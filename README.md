@@ -219,6 +219,6 @@ calculo del error:
 
 ![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%203.jpg)
 
-diagrama de mallas a calcular: 
+Calculos realizados manualmente: 
 
-![](https://github.com/eddy90cg/lab2fce/blob/master/lab2%20-%20fce%20-%20espe/Anexos/calculos%20a%20mano.pdf)
+https://github.com/eddy90cg/lab2fce/blob/master/lab2%20-%20fce%20-%20espe/Anexos/calculos%20a%20mano.pdf
