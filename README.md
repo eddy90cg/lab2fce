@@ -157,6 +157,5 @@ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
      https://electronicacompleta.com/leyes-de-kirchhoff/
      
-
-9. ANEXOS
+9. Anexos
 
