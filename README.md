@@ -183,8 +183,11 @@ Tabla de Registro de datos tomandos del Experimento:
 
 Para poder econtrar los valores de la corriente para cada malla se aplicaron los sigueintes calulos:
 
-![](           )
+![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%201.jpg)
 
+
+
+![]( https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%202.jpg)
 
 
 7. CONCLUSIONES
