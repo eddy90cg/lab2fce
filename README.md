@@ -22,13 +22,16 @@ circuito.
 
 3. DIAGRAMAS
 
-* Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
+
+* Figura, Circuito Teórico para el análisis de mallas:
 
 ![](https://github.com/eddy90cg/lab2fce/blob/master/img/circuito%20teorico.jpg)
 
 
 
-* Figura, Circuito Teórico para el análisis de mallas:
+
+
+* Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
 
 ![](https://github.com/eddy90cg/lab2fce/blob/master/img/circuito%20experimental%20y%20simulado.jpg)
 
