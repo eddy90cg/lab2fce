@@ -6,9 +6,17 @@
 
 1. OBJETIVOS
 
-* Comprobar experimentalmente el Analisis de Mallas.
+OBJETIVO GENERAL:
 
-* Econtrar la corriente enn cada malla aplicando leyes de nodo en mallas y leyes de kirchoff.
+* Realizar las mediciones de corrientes y voltajes en un circuito con tres fuentes de poder y comparar los valores obtenidos experimentalmente, con los obtenidos del cálculo aplicando las leyes de Kirchhoff.
+
+* La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico para comprobar experimentalmente el Analisis de Mallas.
+
+OBJETIVOS ESPECÍFICOS: 
+
+* Afianzar experimentalmente las leyes de conservación de la energía eléctrica y la Conservación de la carga a traves de las mallas.
+
+* Verificar las leyes de Kirchhoff: Ley de Mallas, ley de Nodos para econtrar la corriente de cada malla.
 
 2. MARCO TEÓRICO 
 
@@ -35,6 +43,19 @@ Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar u
  
 Una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos. 
 En el método de la corriente de malla, usamos las mallas de un circuito para generar las ecuaciones LVK.
+
+Ley de nodos:
+
+ La suma algebraica de las corrientes en un nodo es igual a cero.      
+
+I1 – I2 – I3 = 0
+
+Ley de mallas: 
+
+La suma de todas las caídas de tensión en un malla es igual a la suma de todas las tensiones aplicada
+
+VAB = V1 + V2 + V3
+
 
 Corriente de lazo: 
 
@@ -121,13 +142,21 @@ Para poder econtrar los valores de la corriente para cada malla se aplicaron los
 
 7. CONCLUSIONES
 
-* Se concluye que al formar mallas y aplicando leyes al respecto de las mismas se puede econtrar corriente, resistencia, voltaje al aplicar un sistema de ecuaciones.
-* Se concluy que de manera experimental la carriente en cada malla puede ser similar o aproximado a los valores calculados con los valores medidios gracias a teroemas aplicados como ley de nodos o ley de kirchof.
+* Costatamos que las leyes de Kirchhoff al acatar los valores adquiridos tanto de forma teórica como de forma experimental, visulizando que la diferencia entre estas es mínima, por lo tanto podríamos concluir en que las leyes de Kirchhoff se cumplen los valores arrojados de error porcentual de medición del teórico con respecto al experimental depende del instrumento (Resistencia interna,Precisión de medición).
+
+* Los valores de corriente fueron también determinados a partir del método de mallas, y al tener nuestras ecuaciones con la ayuda matrices pudimos obtener los valores teóricos de la corriente y por ende los voltajes, además y se puede apreciar que los valores casi son los mismos.
 
 
 8. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
+
+     https://www.lifeder.com/leyes-kirchhoff/
+
+Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
+
+     https://electronicacompleta.com/leyes-de-kirchhoff/
+     
 
 9. ANEXOS
 
