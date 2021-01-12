@@ -86,15 +86,22 @@ Existe un límite para el valor de a de un resistor real puede soportar antes de
 
 La linealidad significa que podemos usar el principio de superposición, que a su vez quiere decir que tiene sentido que corrientes de múltiples lazos circulen por un mismo elemento del circuito. Tener varias corrientes significa que podemos utilizar las corrientes de lazo como variables independientes. ¡Y eso implica que podemos utilizar el método de la corriente de lazo para resolver circuitos
 
-Pasos para aplicar el análisis de mallas
+Pasos para aplicar el análisis de mallas:
+
 Comenzaremos explicando el método para un circuito de 2 mallas. El procedimiento se puede extender luego para circuitos más grandes.
+
 Paso 1
 Asignar y dibujar corrientes independientes a cada malla, en este ejemplo son I1 e I2. Se pueden dibujar en sentido horario o también en sentido antihorario.
 
 Paso 2
 Aplicar la Ley de las Tensiones de Kirchhoff (LTK) y la ley de Ohm a cada malla. A las caídas de potencial se les asigna signo (-) mientras que a las subidas se les asigna signo (+).
 
-Malla abcda
+
+![]()
+
+
+Malla abcda:
+
 Partiendo del punto a y siguiendo el sentido de la corriente, encontramos una subida de potencial en el batería E1 (+), luego una caída en R1 (-) y después otra caída en R3 (-).
 
 Simultáneamente, la resistencia R3 es atravesada también por la corriente I2, pero en sentido contrario, por lo tanto representa una subida (+). La primera ecuación queda así:
@@ -105,7 +112,8 @@ Enseguida se factoriza y se reagrupan términos:
 
 – (R1+R3)I1 +R3I2 = -E1  (Ecuación 1)
 
-Malla cefdc 
+Malla cefdc: 
+
 Partiendo del punto e y siguiendo el sentido de la corriente se encuentra una caída de potencial en R2 (-), otra caída en E2, ya que la corriente entra por el polo + de la batería y finalmente otra caída en R3 (-), Al mismo tiempo la corriente I1 atraviesa R3 en sentido contrario (+).
 
 La segunda ecuación, con los signos indicados, queda de esta forma:
@@ -179,11 +187,11 @@ Para poder econtrar los valores de la corriente para cada malla se aplicaron los
 
 * Los valores de corriente fueron también determinados a partir del método de mallas, y al tener nuestras ecuaciones con la ayuda matrices pudimos obtener los valores teóricos de la corriente y por ende los voltajes, además y se puede apreciar que los valores casi son los mismos.
 
--A las corrientes de lazo o corrientes de malla se les puede asignar una dirección arbitraria.
+* A las corrientes de lazo o corrientes de malla se les puede asignar una dirección arbitraria.
 
--A cada malla esencial –o “ventana”- que tenga el circuito debe asignársele una corriente.
+* A cada malla esencial –o “ventana”- que tenga el circuito debe asignársele una corriente.
 
--Las corrientes de malla se denotan con mayúscula para distinguirlas de las corrientes que circulan por ramas, aunque en algunos casos la corriente que circula por una rama puede la misma que la de malla.
+* Las corrientes de malla se denotan con mayúscula para distinguirlas de las corrientes que circulan por ramas, aunque en algunos casos la corriente que circula por una rama puede la misma que la de malla.
 
 8. BIBLIOGRAFÍA
 
