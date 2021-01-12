@@ -90,14 +90,18 @@ Pasos para aplicar el análisis de mallas:
 
 Comenzaremos explicando el método para un circuito de 2 mallas. El procedimiento se puede extender luego para circuitos más grandes.
 
-Paso 1
+* Paso 1
+
 Asignar y dibujar corrientes independientes a cada malla, en este ejemplo son I1 e I2. Se pueden dibujar en sentido horario o también en sentido antihorario.
 
-Paso 2
+* Paso 2
+
 Aplicar la Ley de las Tensiones de Kirchhoff (LTK) y la ley de Ohm a cada malla. A las caídas de potencial se les asigna signo (-) mientras que a las subidas se les asigna signo (+).
 
 
-![]()
+![](https://github.com/eddy90cg/lab2fce/blob/master/img/mallas-2.jpg)
+
+
 
 
 Malla abcda:
