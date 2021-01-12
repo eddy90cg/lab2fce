@@ -221,4 +221,4 @@ calculo del error:
 
 diagrama de mallas a calcular: 
 
-![](https://github.com/eddy90cg/lab2fce/blob/master/img/mallas%20diagrama.jpeg)
+![](https://github.com/eddy90cg/lab2fce/blob/master/lab2%20-%20fce%20-%20espe/Anexos/calculos%20a%20mano.pdf)
